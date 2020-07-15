@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(234, 234, 234);
+  text-align: center;
+}
+
+.invalid {
+  border-color: red !important;
+}
+
+.category-item {
+  text-indent: 30px;
+}
+
+.category-header {
+  background-color: #F9FAFB;
+}
+
+.add-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
